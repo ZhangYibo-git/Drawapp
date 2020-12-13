@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+        <node id = "0" Default="pic/yuan.bmp" Clicked="pic/yuan_select.bmp" Type="RING" />
+        <node id = "1" Default="pic/xiantiao.bmp" Clicked="pic/xiantiao_select.bmp" Type="LINE" />
+        <node id = "2" Default="pic/juxing.bmp" Clicked="pic/juxing_select.bmp" Type="RECTANGE" />
+        <node id = "3" Default="pic/qingchu.bmp" Clicked="pic/qingchu.bmp" Type="CLEAN" />
+</data>
